@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.78739a6f.chunk.css",
-    "main.js": "/static/js/main.3235cab9.chunk.js",
-    "main.js.map": "/static/js/main.3235cab9.chunk.js.map",
+    "main.js": "/static/js/main.bda3ceae.chunk.js",
+    "main.js.map": "/static/js/main.bda3ceae.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.24489177.js",
     "runtime-main.js.map": "/static/js/runtime-main.24489177.js.map",
     "static/js/2.f130e3d3.chunk.js": "/static/js/2.f130e3d3.chunk.js",
@@ -12,12 +12,12 @@
     "index.html": "/index.html",
     "static/css/main.78739a6f.chunk.css.map": "/static/css/main.78739a6f.chunk.css.map",
     "static/js/2.f130e3d3.chunk.js.LICENSE.txt": "/static/js/2.f130e3d3.chunk.js.LICENSE.txt",
-    "static/media/it-grumbles-atom.793ff9ae.png": "/static/media/it-grumbles-atom.793ff9ae.png"
+    "static/media/it-grumbles-banner-big.8a646096.png": "/static/media/it-grumbles-banner-big.8a646096.png"
   },
   "entrypoints": [
     "static/js/runtime-main.24489177.js",
     "static/js/2.f130e3d3.chunk.js",
     "static/css/main.78739a6f.chunk.css",
-    "static/js/main.3235cab9.chunk.js"
+    "static/js/main.bda3ceae.chunk.js"
   ]
 }
